@@ -9,8 +9,9 @@ Debayan Das, Data Analyst at MiiCare
 ---
 
 <figure>
-  <img src="./images/online-blog/care-home-insurance-compressor-600x400.jpg" width='1200' height='750'>
+  <img src="../images/online-blog/care-home-insurance-compressor-600x400.jpg" width='1200' height='750'>
 </figure> 
+
 
 
 ## tl;dr
